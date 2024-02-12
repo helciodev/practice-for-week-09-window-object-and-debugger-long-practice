@@ -8,7 +8,6 @@ import {
 } from "./search.js";
 
 window.onload = () => {
-  alert("document ready!");
   changeTitle();
   changeHeader();
   changeAboutMe();
